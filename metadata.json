@@ -1,0 +1,5 @@
+{
+  "name": "Daily Stories",
+  "description": "A minimal daily story writing and reading website where users can share one story per day. Stories are ephemeral and the platform focuses on a shared human experience without social media distractions.",
+  "requestFramePermissions": []
+}
