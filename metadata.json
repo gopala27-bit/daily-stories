@@ -1,0 +1,5 @@
+{
+  "name": "ZenMind PWA",
+  "description": "An offline-first, AI-powered daily journal and habit tracker that works without an internet connection.",
+  "requestFramePermissions": []
+}
